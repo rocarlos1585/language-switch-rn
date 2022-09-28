@@ -1,0 +1,12 @@
+{
+    "_comment": "src/localization/en/translation.json",
+    "onBorardingScreen": {
+      "title": "Prova di biblioteca i18next",
+      "stepOneTitle": "Passo uno",
+      "stepOneDescription": "Ecco la descrizione del passaggio 1",
+      "stepTwoTitle": "Passo due",
+      "stepTwoDescription": "Ecco la descrizione del passaggio 2",
+      "prototypeDescriptionTitle": "Descrizione del prototipo",
+      "prototypeDescription": "Questo prototipo è stato creato per fornire una soluzione alla richiesta dei nostri utenti di cambiare la lingua in modo dinamico"
+    }
+  }
